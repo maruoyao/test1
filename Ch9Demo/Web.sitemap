@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode>
+  <siteMapNode url="" title="文件"  description="">
+    <siteMapNode url="~/New.aspx" title="新建"  description="" />
+    <siteMapNode url="~/Open.aspx" title="打开"  description="" />
+  </siteMapNode>
+	<siteMapNode url="" title="帮助"  description="">
+		<siteMapNode url="~/Help.aspx" title="在线帮助"  description="" />
+		<siteMapNode url="~/About.aspx" title="关于"  description="" />
+	</siteMapNode>
+	</siteMapNode>
+</siteMap>
